@@ -1,0 +1,41 @@
+[main] INFO  filenet_error.api.com.filenet.apiimpl.util.ConfigValueLookup  - Configuration property file search order:
+    user.dir = C:\RAD95WS\PlumbingCardsDownload
+    user.home = C:\Users\mgiokap
+    java.home = C:\RAD9504\IBM\SDP\jdk\jre
+  [main] INFO  filenet_error.api.com.filenet.apiimpl.util.ConfigValueLookup  - Loading configuration resource: FileNetBuild.properties
+  [main] INFO  filenet_error.security.com.filenet.apiimpl.authentication.util.AuthnUtil  - [J2EEType] Detecting app server : tried to get InitialContext but that did not work so will try other method; message from trial: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
+  [main] WARN  filenet_error.api.com.filenet.apiimpl.util.J2EEUtil  - The code has NOT detected a need to introduce specific application server logic and is defaulting to using standard J2EE calls
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 219......ETHAN ALLEN
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7121......SYCAMORE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 313......ETHAN ALLEN
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7515......DUNDALK
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7513......DUNDALK
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7518......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7516......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7511......DUNDALK
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7514......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7509......DUNDALK
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7506......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7500......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7510......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7504......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7508......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7505......DUNDALK
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7512......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7507......DUNDALK
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7520......PINEY BRANCH
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7215......CEDAR
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7221......CEDAR
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7217......CEDAR
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7214......MAPLE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7216......MAPLE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7211......CEDAR
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7213......CEDAR
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7212......MAPLE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 214......TULIP
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7206......MAPLE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7209......CEDAR
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7208......MAPLE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7210......MAPLE
+  [main] INFO  com.wssc.PlumbingCardsDownload.PlumbingCardsDownload  - 7416......MAPLE
+  
